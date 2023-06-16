@@ -1,0 +1,42 @@
+[
+    {
+        "question": "What does the phrasal verb '<b>give up</b>' mean?",
+        "answers": ["To surrender", "To keep", "To accelerate", "To slow down"],
+        "correctAnswer": "To surrender"
+    },
+    {
+        "question": "What does the phrase '<b>under the weather</b>' mean?",
+        "answers": ["Feeling sick", "Feeling happy", "Feeling sad", "Feeling scared"],
+        "correctAnswer": "Feeling sick"
+    },
+    {
+        "question": "What does the phrasal verb '<b>put off</b>' mean?",
+        "answers": ["To postpone", "To turn off", "To put away", "To refuse"],
+        "correctAnswer": "To postpone"
+    },
+    {
+        "question": "What does the phrasal verb '<b>turn up</b>' mean?",
+        "answers": ["To arrive", "To increase", "To return", "To turn over"],
+        "correctAnswer": "To arrive"
+    },
+    {
+        "question": "What does the idiom '<b>break a leg</b>' mean?",
+        "answers": ["Good luck", "Do your best", "Break a leg literally", "Hurry up"],
+        "correctAnswer": "Good luck"
+    },
+    {
+        "question": "What does the phrasal verb '<b>bring up</b>' mean?",
+        "answers": ["To raise a child", "To bring from a lower position", "To vomit", "To mention or introduce a subject"],
+        "correctAnswer": "To mention or introduce a subject"
+    },
+    {
+        "question": "What does the idiom '<b>bite the bullet</b>' mean?",
+        "answers": ["To get something over with because it is inevitable", "To bite a real bullet", "To act savagely or violently", "To eat quickly"],
+        "correctAnswer": "To get something over with because it is inevitable"
+    },
+    {
+        "question": "What does the phrasal verb '<b>check out</b>' mean?",
+        "answers": ["To leave a hotel", "To investigate", "To pay the bill and leave", "All of the above"],
+        "correctAnswer": "All of the above"
+    }
+]
