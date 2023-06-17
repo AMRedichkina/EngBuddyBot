@@ -38,5 +38,105 @@
         "question": "What does the phrasal verb '<b>check out</b>' mean?",
         "answers": ["To leave a hotel", "To investigate", "To pay the bill and leave", "All of the above"],
         "correctAnswer": "All of the above"
+    },
+    {
+        "question": "What does the phrasal verb '<b>back off</b>' mean?",
+        "answers": ["To move away or retreat", "To support someone from behind", "To back up a vehicle", "To respond angrily"],
+        "correctAnswer": "To move away or retreat"
+    },
+    {
+        "question": "What does the idiom '<b>break the ice</b>' mean?",
+        "answers": ["To melt ice with heat", "To physically break a block of ice", "To initiate a conversation or social interaction", "To win a competition"],
+        "correctAnswer": "To initiate a conversation or social interaction"
+    },
+    {
+        "question": "What does the phrasal verb '<b>call off</b>' mean?",
+        "answers": ["To make a phone call", "To cancel or postpone something", "To start an event", "To give a nickname"],
+        "correctAnswer": "To cancel or postpone something"
+    },
+    {
+        "question": "What does the idiom '<b>cut corners</b>' mean?",
+        "answers": ["To take a shortcut", "To trim the edges of something", "To save money by reducing quality or effort", "To avoid making a decision"],
+        "correctAnswer": "To save money by reducing quality or effort"
+    },
+    {
+        "question": "What does the phrasal verb '<b>figure out</b>' mean?",
+        "answers": ["To calculate something", "To understand or solve a problem", "To arrange in a particular shape", "To plan an outing"],
+        "correctAnswer": "To understand or solve a problem"
+    },
+    {
+        "question": "What does the idiom '<b>get over</b>' mean?",
+        "answers": ["To recover from an illness or emotional distress", "To overcome an obstacle", "To move past something", "All of the above"],
+        "correctAnswer": "All of the above"
+    },
+    {
+        "question": "What does the phrasal verb '<b>hang up</b>' mean?",
+        "answers": ["To hang clothes on a line", "To end a phone call", "To delay or postpone something", "To decorate a room"],
+        "correctAnswer": "To end a phone call"
+    },
+    {
+        "question": "What does the idiom '<b>keep up</b>' mean?",
+        "answers": ["To maintain the same level or pace", "To continue doing something", "To support or encourage", "All of the above"],
+        "correctAnswer": "All of the above"
+    },
+    {
+        "question": "What does the phrasal verb '<b>look after</b>' mean?",
+        "answers": ["To search for something", "To take care of or watch over someone", "To search for a new job", "To dress nicely"],
+        "correctAnswer": "To take care of or watch over someone"
+    },
+    {
+        "question": "What does the idiom '<b>make up</b>' mean?",
+        "answers": ["To invent or create something", "To reconcile after an argument", "To apply cosmetics", "All of the above"],
+        "correctAnswer": "All of the above"
+    },
+    {
+        "question": "What does the phrasal verb '<b>put off</b>' mean?",
+        "answers": ["To turn off a light", "To postpone or delay something", "To extinguish a fire", "To criticize someone"],
+        "correctAnswer": "To postpone or delay something"
+    },
+    {
+        "question": "What does the idiom '<b>run out</b>' mean?",
+        "answers": ["To finish or exhaust the supply of something", "To sprint or race", "To abandon a plan", "To trip and fall"],
+        "correctAnswer": "To finish or exhaust the supply of something"
+    },
+    {
+        "question": "What does the phrasal verb '<b>set up</b>' mean?",
+        "answers": ["To arrange or organize something", "To establish or start a business", "To assemble or install", "All of the above"],
+        "correctAnswer": "All of the above"
+    },
+    {
+        "question": "What does the idiom '<b>take off</b>' mean?",
+        "answers": ["To remove clothing", "To become successful or popular quickly", "To leave or depart", "All of the above"],
+        "correctAnswer": "All of the above"
+    },
+    {
+        "question": "What does the phrasal verb '<b>turn on</b>' mean?",
+        "answers": ["To switch on or activate", "To oppose or rebel against", "To visit or explore", "To rotate or spin"],
+        "correctAnswer": "To switch on or activate"
+    },
+    {
+        "question": "What does the idiom '<b>warm up</b>' mean?",
+        "answers": ["To increase the temperature", "To prepare or stretch before physical activity", "To become more friendly or receptive", "All of the above"],
+        "correctAnswer": "All of the above"
+    },
+    {
+        "question": "What does the phrasal verb '<b>turn off</b>' mean?",
+        "answers": ["To switch off or deactivate", "To become uninterested or disgusted", "To make a sudden change in direction", "To decrease the volume"],
+        "correctAnswer": "To switch off or deactivate"
+    },
+    {
+        "question": "What does the idiom '<b>hold on</b>' mean?",
+        "answers": ["To grasp or cling to something", "To wait or pause", "To have control or influence", "All of the above"],
+        "correctAnswer": "All of the above"
+    },
+    {
+        "question": "What does the phrasal verb '<b>take up</b>' mean?",
+        "answers": ["To occupy or fill a space", "To start a hobby or activity", "To accept or agree to do something", "All of the above"],
+        "correctAnswer": "All of the above"
+    },
+    {
+        "question": "What does the idiom '<b>get off</b>' mean?",
+        "answers": ["To leave a vehicle or mode of transportation", "To escape punishment or avoid consequences", "To begin or start something", "All of the above"],
+        "correctAnswer": "All of the above"
     }
 ]
