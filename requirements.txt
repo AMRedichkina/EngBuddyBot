@@ -1,0 +1,7 @@
+anyio==3.7.0
+beautifulsoup4==4.12.2
+httpx==0.24.1
+lxml==4.9.2
+PyDictionary==2.0.1
+python-telegram-bot==20.3
+Reverso-API==0.0.1b3
