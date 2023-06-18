@@ -17,7 +17,7 @@ EngBuddyBot is built using the following technologies:
 - Python 3.11
 - Telegram API
 - AsyncIO
-- python-telegram-bot 20.3 library
+- python-telegram-bot 20.3
 
 ## 💼 Skills You Gain 
 
