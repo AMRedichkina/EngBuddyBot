@@ -1,3 +1,5 @@
+An interactive Telegram bot for English language learners, built with Python and the Telegram API. This project offers a hands-on learning experience in asynchronous programming with AsyncIO, bot interaction handling, and API integration, focusing on real-world application and usability.
+
 # 🤖 EngBuddyBot - Your English Learning Companion 📘
 
 Welcome to the world of English learning with EngBuddyBot, your reliable companion on the journey to mastering the English language. 🚀  EngBuddyBot makes your learning experience interactive and fun through its engaging features and dynamic content.
