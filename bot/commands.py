@@ -19,7 +19,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE)-> None:
               "Please use the following commands:\n "
               "- <b>/mean </b>     <i>(add a word to get its meaning)</i>,\n"
               "- <b>/start_dialog</b>     <i>(to engage in a 'reading maze'</i>.\n"
-              "You can also access our phrasal verb trainer by clicking the /menu_button."
+              "You can also access our phrasal verb trainer by clicking the /menu_button.\n"
               "Best of luck!"),
         parse_mode='HTML'
     )
@@ -73,4 +73,6 @@ async def meaning(update: Update, context: CallbackContext)-> None:
     dictionary = context.bot_data['dictionary']
     raw_meaning = await get_meaning(dictionary, word)
     formatted_meaning = await format_meaning(raw_meaning, word)
-    await context.bot.send_message(chat_id=update.effective_chat.id, text=formatted_meaning, parse_mode='HTML')
+    await context.bot.send_message(chat_id=update.effective_chat.id,
+                                   text=formatted_meaning,
+                                   parse_mode='HTML')

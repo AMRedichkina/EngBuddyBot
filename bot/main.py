@@ -53,8 +53,7 @@ if __name__ == '__main__':
         states={
             ANSWER: [MessageHandler(filters.Regex("^(Yes)$"), answer)],
             ANSWER2: [MessageHandler(filters.Regex("^(Yes|No)$"), answer2)],
-            LANGUAGE:[MessageHandler(filters.Regex("^(Yes|No|JAPANESE|FRENCH)$"), answer3)],
-            ANSWER3: [MessageHandler(filters.Regex("^(Yes|No|Accept|Reject|I would accept it|I would decline it)$"), answer4)],
+            ANSWER3: [MessageHandler(filters.Regex("^(Yes|No|Accept|Reject|I would accept it|I would decline it)$"), answer3)],
             ANSWER4: [MessageHandler(filters.Regex("^(I would accept it|I would decline it|Accept|Reject|Stay|Go|Yes|No)$"), answer4)],
             ANSWER5: [MessageHandler(filters.Regex("^(Yes|No|ACCOUNTANT|PILOT|Stay|Go|Accept|Reject|I am excited|I am sad|AUSTRALIA|INDIA|Of course|Not exactly|I would accept it|I would decline it|Yes, I do|No, I don't)$"), answer5)],
             

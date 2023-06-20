@@ -2,7 +2,7 @@ from telegram import Update, ReplyKeyboardMarkup, ReplyKeyboardRemove
 from telegram.ext import ContextTypes
 from telegram.ext import ConversationHandler
 
-ANSWER, ANSWER2, LANGUAGE, ANSWER3, ANSWER4, ANSWER5 = range(6)
+ANSWER, ANSWER2, ANSWER3, ANSWER4, ANSWER5 = range(5)
 
 async def start_dialog(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
     """
@@ -69,7 +69,7 @@ async def answer2(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
             reply_keyboard, one_time_keyboard=True, input_field_placeholder="Which one do you choose?"
             ),
         )
-        return LANGUAGE
+        return ANSWER3
     else:
         reply_keyboard = [["Yes", "No"]]
         await update.message.reply_text(
